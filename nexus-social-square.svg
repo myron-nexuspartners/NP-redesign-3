@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <rect width="1200" height="1200" fill="#1B2A4A"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#C5A55A"/>
+  <rect x="0" y="1192" width="1200" height="8" fill="#C5A55A"/>
+  <rect x="350" y="250" width="500" height="500" fill="#C5A55A"/>
+  <text x="600" y="620" font-family="Georgia, serif" font-size="320" font-style="italic" fill="#1B2A4A" text-anchor="middle">N</text>
+  <text x="600" y="870" font-family="Georgia, serif" font-size="72" letter-spacing="28" fill="#FFFFFF" text-anchor="middle">NEXUS</text>
+  <text x="600" y="960" font-family="Georgia, serif" font-size="72" font-style="italic" letter-spacing="18" fill="#C5A55A" text-anchor="middle">PARTNERS</text>
+</svg>

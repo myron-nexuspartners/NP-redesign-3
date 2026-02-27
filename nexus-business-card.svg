@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 600" width="1050" height="600">
+  <rect width="1050" height="600" fill="#111d33"/>
+  <rect x="0" y="0" width="150" height="600" fill="#C5A55A"/>
+  <text x="75" y="360" font-family="Georgia, serif" font-size="130" font-style="italic" fill="#1B2A4A" text-anchor="middle">N</text>
+  <text x="210" y="220" font-family="Georgia, serif" font-size="52" letter-spacing="16" fill="#FFFFFF">NEXUS</text>
+  <text x="210" y="290" font-family="Georgia, serif" font-size="52" font-style="italic" letter-spacing="10" fill="#C5A55A">PARTNERS</text>
+  <line x1="210" y1="330" x2="870" y2="330" stroke="rgba(197,165,90,0.3)" stroke-width="1"/>
+  <text x="210" y="380" font-family="Helvetica, sans-serif" font-size="28" fill="rgba(255,255,255,0.8)">[Name]  |  [Title]</text>
+  <text x="210" y="435" font-family="Helvetica, sans-serif" font-size="24" fill="rgba(255,255,255,0.5)">inquiries@nexuspartners.org</text>
+  <text x="210" y="480" font-family="Helvetica, sans-serif" font-size="24" fill="rgba(255,255,255,0.5)">www.nexuspartners.org</text>
+</svg>

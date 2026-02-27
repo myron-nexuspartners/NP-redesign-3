@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <rect x="0" y="0" width="400" height="80" fill="#1B2A4A"/>
+  <rect x="0" y="0" width="80" height="80" fill="#C5A55A"/>
+  <text x="40" y="58" font-family="Georgia, serif" font-size="44" font-style="italic" font-weight="400" fill="#1B2A4A" text-anchor="middle">N</text>
+  <text x="100" y="38" font-family="Georgia, serif" font-size="22" font-weight="400" letter-spacing="8" fill="#FFFFFF">NEXUS</text>
+  <text x="100" y="64" font-family="Georgia, serif" font-size="22" font-style="italic" font-weight="400" letter-spacing="6" fill="#C5A55A">PARTNERS</text>
+</svg>
